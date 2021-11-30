@@ -1,0 +1,11 @@
+ext.'tw.major' = '1'
+ext.'tw.minor' = '1'
+ext.'tw.patch' = '1'
+// ext.'tw.micro' = '0'
+
+//-----------------------------
+// branch properties
+//-----------------------------
+
+ext.branch = "master"
+
