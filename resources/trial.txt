@@ -1,6 +1,7 @@
-ext.'tw.major' = '1'
-ext.'tw.minor' = '1'
-ext.'tw.patch' = '1'
+ext.'tw.major' = 's'
+ext.'tw.minor' = 'c'
+ext.'tw.patch' = 'e'
+ext.'tw.micro' = 's'
 // ext.'tw.micro' = '0'
 
 //-----------------------------
